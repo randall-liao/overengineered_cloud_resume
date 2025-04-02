@@ -62,13 +62,21 @@ This project serves as my cloud-based resume hosted entirely on the cloud, using
 
 1. **Certification**
 
+ :white_check_mark: Finished! Check out courses that helped me pass the certification exam: [Coursera: AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/programs/sobma/professional-certificates/aws-cloud-solutions-architect)
+
+
    - I'm an AWS Certified Solution Architect now! [AWS Certified Solution Architect](https://www.credly.com/badges/cf3fc6ea-c18c-4bcb-95f4-a58d0cc770de/linked_in_profile)
 
-2. **Frontend Development**
+2. **Frontend Development** [(Blog Post)](https://TODO)[(Tutorial)](https://TODO)
+
+ :white_check_mark: Finished! Check out the [GitHub Repo](https://github.com/randall-liao/react-frontend-cloud-resume) for the frontend code.
+
    - A React web application
    - Cross-platform compatible website
 
-3. **Static Website Deployment**
+3. **Static Website Deployment** [(Blog Post)](https://TODO)[(Tutorial)](https://TODO)
+
+ :white_check_mark: Finished! Check out [my cloud resume](https://randalldev.link/)
 
    - Host static resources on an Amazon S3 static website.
    - Enable HTTPS using Amazon CloudFront.
